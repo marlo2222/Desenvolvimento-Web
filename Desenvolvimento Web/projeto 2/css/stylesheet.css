@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+}
+.conteudo{
+  background-color: green;
+  width: 300px;
+  /* margin: 10px;; */
+	/* line-height: 25px; */
+	/* margin: 0 auto; */
+  /* padding-top: 1px; */
+  /* border-bottom: 2rem; */
+}
+#lista{
+  list-style-type: none;
+}
+.informacoes{
+  font-style: italic;
+}
+.negrito{
+  font-weight: bold;
+}
+.descri{
+  text-align: justify;
+}
